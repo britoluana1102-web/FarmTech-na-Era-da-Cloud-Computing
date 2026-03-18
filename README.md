@@ -31,7 +31,7 @@ O notebook resolve o problema de prever o rendimento de safras de uma fazenda de
 ### 👉 [Acesse o Notebook completo aqui](./LuanaBritoSilva_rm566632_pbl_fase4.ipynb)
 
 ### 🎥 Vídeo – Entrega 1
-📹 [Assista no YouTube](https://www.youtube.com/LINK_AQUI)
+📹 [Assista no YouTube] https://youtu.be/9eu-pX7EiVw
 
 ---
 
@@ -80,6 +80,9 @@ Os valores abaixo foram obtidos diretamente na **AWS Pricing Calculator** (calcu
 | **Total anual** | **~$238,32 USD** | **~$139,08 USD** |
 
 > 📸
+<img width="1919" height="915" alt="Calculator AWS Virginia" src="https://github.com/user-attachments/assets/4cf76786-4b55-4b79-b01e-46025782c433" />
+> <img width="1919" height="904" alt="Calculator AWS SP" src="https://github.com/user-attachments/assets/6926ca73-47b4-477b-a0ce-37690957bc56" />
+
 
 
 ### Gráfico comparativo
@@ -143,7 +146,7 @@ A diferença entre as duas regiões é de apenas **$8,27 USD por mês** (cerca d
 ---
 
 ## 🎥 Vídeo – Entrega 2
-📹 [Assista no YouTube](https://www.youtube.com/LINK_AQUI)
+📹 [Assista no YouTube] https://youtu.be/LhsIIV6I6pg
 
 ---
 
